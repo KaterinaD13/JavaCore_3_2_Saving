@@ -1,0 +1,12 @@
+Каталог D:\Games\src создан
+Каталог D:\Games\res создан
+Каталог D:\Games\savegames создан
+Каталог D:\Games\temp создан
+Каталог D:\Games\src\main создан
+Каталог D:\Games\src\test создан
+Каталог D:\Games\res\drawables создан
+Каталог D:\Games\res\vectors создан
+Каталог D:\Games\res\icons создан
+Файл D:\Games\src\main\Main.java создан
+Файл D:\Games\src\main\Utils.java создан
+Файл D:\Games\temp\temp.txt создан
